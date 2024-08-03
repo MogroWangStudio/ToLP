@@ -1,0 +1,3 @@
+[submodule "components/zoomly"]
+	path = components/zoomly
+	url = https://github.com/kev1nweng/zoomly.js
